@@ -1,5 +1,7 @@
 # nix-systems
 
+[![Hercules CI](https://hercules-ci.com/api/v1/site/github/account/UnstoppableMango/project/nix-systems/badge)](https://hercules-ci.com/github/UnstoppableMango/nix-systems)
+
 A [nix-systems](https://github.com/nix-systems) pin, plus the subset of those systems CI can build.
 
 | File               | Contents                                              |
